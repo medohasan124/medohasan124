@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elshahawi</h1>
 <h3 align="center">A backend developer from Egypt</h3>
 
+<h2>About Me</h2>
+<p>I'm a Laravel developer specialized in building robust and scalable web applications.
+  <br/>
+Passionate about learning new technologies and developing innovative software solutions <p>
+
 - 🔭 I’m currently working on **lab mangment**
 
 - 🌱 I’m currently learning **golang , Flutter & Dart**
